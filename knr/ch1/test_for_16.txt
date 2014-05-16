@@ -3,3 +3,6 @@ I am totally the longest line in this file. I hope it is over 80 characters by t
 I copped out and did not consider if a
 line is longer than 100 chars.
 There seems to be something in my vim config that auto breaks the line at 80 characters. While this is normally interesting, I find it hard to have to use J everytime I want to break that rule.
+
+I ahve whitespace at the end of the line    
+
